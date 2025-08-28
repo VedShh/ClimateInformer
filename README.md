@@ -5,8 +5,9 @@ Climate change presents an urgent global challenge, yet widespread misinformatio
 To use this system, do the following:
 1. Upload code into google colab
 2. Upload dataset into google drive
-3. Run the first 2 code cells in order
-4. In the output of the 2nd code cell, there should be an ngrok link that takes you to a local version of the software
-5. Explore the code!
+   --> To get the full dataset you must download (or just set it up with Github Desktop) the entire ClimateInformer repo onto your local drive, which at that point you will get full access to the dataset
+4. Run the first 2 code cells in order
+5. In the output of the 2nd code cell, there should be an ngrok link that takes you to a local version of the software
+6. Explore the code!
 
 The last code cell is for debugging. If the code does not work for some reason, run the last code cell, and then rerun cells 1 and 2. 
